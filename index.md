@@ -3,24 +3,26 @@
 layout: home
 
 hero:
-  name: "Exam Dawn - NEP2020_2024_BCA"
-  text: "An All-in-One Resource Site for NEP2020_2024_BCA Students"
+  name: "Exam Dawn - BCA"
+  text: "An All-in-One Resource Site for BCA Students(2024 Batch)"
   actions:
     - theme: brand
       text: Edit Content
-      link: https://github.com/examdawn/NEP2020_2024_BCA
+      link: https://github.com/examdawn/NEP_2024_BCA
     - theme: alt
       text: Go Back
       link: ../../..
 
 features:
-  - title: 2ndsem
-    link: ./2ndsem
+  - title: 3rd Semester
+    link: ./3rdsem
+  - title: 4th Semester
+    link: ./4thsem
 ---
 
-NEP2020_2024_BCA is a 3 years Undergraduate course which teaches the extremely fundamental basics of Computer Science
+BCA(Bachelor of Computer Applications) is a 3 years Undergraduate course which teaches the extremely fundamental basics of Computer Science
 
-Ongoing: 2ndsem
+Ongoing: 2nd Semester
 
 ### Content Contributors
 <a href="https://github.com/examdawn/NEP2020_2024_BCA/graphs/contributors">
